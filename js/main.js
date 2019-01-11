@@ -25,7 +25,3 @@ if(box.length > 0){
 		}, 100);
 	};
 }
-
-$('.menu-movil').on('click', function(){
-        $('.navegacion-principal').slideToggle();
-    });
