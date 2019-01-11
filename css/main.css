@@ -457,7 +457,18 @@ p.copyright {
     text-align: center;
 }
 
-
+.item-skills {
+	height: 30px;
+    background: #353535;
+    color: #fe4918;
+    padding: 5px 10px;
+    margin-bottom: 5px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-size: 1.3em;
+    font-weight: 600;
+}
 
 
 /* ==========================================================================
