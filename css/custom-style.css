@@ -1,0 +1,10 @@
+body#main-body, .simpleslide100, .size1.overlay1, .size1, .overlay1::before {
+    background-image: url(img/mar-city.jpg) !important;
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+#main-bg-img {
+    z-index: 0;
+}
